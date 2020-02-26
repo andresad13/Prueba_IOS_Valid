@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  PokePrueba
+
+  Created by Mac mini on 26/02/20.
+  Copyright © 2020 Mac mini. All rights reserved.
+*/
+"base_url" = "https://pokeapi.co/api/v2/";
+"pokes_url" = "pokemon";
+"poke_number" ="Pokemon numero:";
+"poke_weight" = "Peso: ";
+"poke_height" = "Altura: ";
